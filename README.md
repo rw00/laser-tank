@@ -2,6 +2,8 @@
 Game Project in Processing.
 Replica of the good old BattleCity Tank developed by Namco Ltd.
 
+This project was developed for Digital Image Processing course at my university in April 2016.
+
 Play the original game online here: https://www.playfg.com/battle-city-tank-game.html
 
 INSTALLATION
